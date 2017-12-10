@@ -15,7 +15,8 @@ origin and destination points in certain area in the world.
 
 In the first problem you should:
 
- 1. Find out the area where the points are located. **Where are points located (name of the region)? Write your answer here:**
+ 1. Find out the area where the points are located.
+    - **Where are points located (name of the region)? Write your answer here:**
  2. Retrieve OpenStreetMap data (streets that can be driven with car) from the area where the points are located
  3. Using the UTM projection: Plot the street network (gray color) and on top of that the origin points with red color and destination points with blue color.
 
