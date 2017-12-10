@@ -31,7 +31,8 @@ In the second problem you should:
  2. Create a GeoDataFrame where you should store all the LineString geometries of the shortest path routes, and the distance of the route in meters.
  3. Plot all the routes on top of the street network.
  4. Calculate the total distance of all the routes (i.e. sum of all route distances)
-    i. **What is the total distance of all routes? Answer here:**
+
+    - **What is the total distance of all routes? Answer here:**
 
 Commit the changes to your script and upload it to your own GitHub repository for Exercise 7.
 
