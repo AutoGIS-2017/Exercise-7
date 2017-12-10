@@ -20,7 +20,7 @@ In the first problem you should:
  2. Retrieve OpenStreetMap data (streets that can be driven with car) from the area where the points are located
  3. Using the UTM projection: Plot the street network (gray color) and on top of that the origin points with red color and destination points with blue color.
 
-Commit the changes to your script and upload it and the figure that you visualized to your own GitHub repository for Exercise 7.
+Upload your script and the figure that you visualized to your own GitHub repository for Exercise 7.
 
 ## Problem 2 (12 points)
 
@@ -35,5 +35,5 @@ In the second problem you should:
 
     - **What is the total distance of all routes? Answer here:**
 
-Commit the changes to your script and upload it and the figure that you visualized to your own GitHub repository for Exercise 7.
+Upload your script and the figure that you visualized to your own GitHub repository for Exercise 7.
 
